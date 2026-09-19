@@ -2,4 +2,4 @@
 
 ### Ex01: 🔀Par ou Ímpar [📂](./ParOuImpar)
 
-### Ex02: 🤜🫱✌️Jo Ken Pô [📂](.JoKenPo)
+### Ex02: 🤜🫱✌️Jo Ken Pô [📂](./JoKenPo)
